@@ -2,7 +2,7 @@ Tyson James - 2 Genders
 intro.txt
 zwrotka-1.txt
 łącznik-1.txt
-refren-1.txt
+refren.txt
 zwrotka-2.txt
 łącznik-2.txt
-refren-2.txt
+refren.txt
